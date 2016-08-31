@@ -8,3 +8,5 @@ The current version of MAI is 0.7.1. A .zip file containing the .jar file, a use
 MAI version 0.7.1 fixes a problem with deleting table entries encountered when sorting the tables based on different columns, and re-introduces the functionality which scrolls the text to the appropriate location when a tag ID is double-clicked.
 
 If you wish to cite MAI in a publication, please use: Amber Stubbs. "MAE and MAI: Lightweight Annotation and Adjudication Tools". In 2011 Proceedings of the Linguistic Annotation Workshop V, Association of Computational Linguistics, Portland, Oregon, July 23-24, 2011. 
+
+Please note that there is an updated version of MAI, with new functionality, created by Keigh Rim and other students at Brandeis University: https://github.com/keighrim/mai-adjudication If you are looking to be able to do discontinuous spans, and a fancier UI, please check that out.
